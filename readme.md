@@ -29,7 +29,7 @@ Kelas : TI.22.B1<br>
 ## Latihan 1
 * buat file latihan1.py
 * tulis kode seperti contoh
-
+![latihan1](https://github.com/MhmmdAldi19/lab2py/blob/bb9b16c5ca22fde6aa531c6fe7c9cf89182e6663/img/run%20latihan1.PNG)
 
 ```python
 #menampilkan tulisan 'Hello' di layar
