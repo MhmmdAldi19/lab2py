@@ -15,13 +15,7 @@ Kelas : TI.22.B1<br>
 
 ## Install Python
 1. download python pada web Resmi python [di sini](https://python.org)
-
-
-
 2. buka lalu centang bagian *add python to PATH* lalu klik install now
-
-
-
 3. Instalasi Selesai, klik close
 
 
@@ -30,7 +24,6 @@ Kelas : TI.22.B1<br>
 * buat file latihan1.py
 * tulis kode seperti contoh
 ![latihan1](https://github.com/MhmmdAldi19/lab2py/blob/bb9b16c5ca22fde6aa531c6fe7c9cf89182e6663/img/run%20latihan1.PNG)
-
 ```python
 #menampilkan tulisan 'Hello' di layar
 print("Hello")
@@ -38,10 +31,8 @@ print("Hello")
 print("Saya sedang belajar python")
 ```
 * klik tombol run
-
-
-
 * maka akan muncul program yang dijalankan
+![run latihan1](https://user-images.githubusercontent.com/115919203/197142752-48615e51-fff0-4e22-9d75-5d6b8ef989c3.PNG)
 
 
 ```
@@ -52,10 +43,8 @@ Saya sedang belajar python
 
 ## Latihan 2
 * buat file latihan2.py
-
-
-
 * tulis kode seperti contoh
+![sc latihan 2](https://user-images.githubusercontent.com/115919203/197142882-432d148a-6e66-4856-ae17-a23e0f4848be.PNG)
 
 
 ``` python
@@ -70,10 +59,8 @@ print("hasil penjumlahan a + b =", a+b)
 
 
 * klik tombol run
-
-
-
 * maka akan muncul program yang dijalankan
+![run latihan2PNG](https://user-images.githubusercontent.com/115919203/197143080-b9e6f539-e92e-4074-b74e-8597523b4d39.PNG)
 
 
 
@@ -86,10 +73,8 @@ hasil penjumlahan a + b = 14
 
 ## Latihan 3
 * buat file latihan3.py
-
-
-
 * tulis kode seperti contoh
+![sc latihan 3](https://user-images.githubusercontent.com/115919203/197143120-c8bf92bd-d5fc-4959-91cf-6fd0fce3e340.PNG)
 
 
 
@@ -113,10 +98,8 @@ print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
 print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 ```
 * klik tombol run
-
-
-
 * maka akan muncul program yang dijalankan, jangan lupa masukan angka
+![run latihan3](https://user-images.githubusercontent.com/115919203/197143160-b920e9ad-0d32-4b42-ac83-18b3a1ca351b.PNG)
 
 
 ```
