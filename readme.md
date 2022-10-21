@@ -15,11 +15,14 @@ Kelas : TI.22.B1<br>
 
 ## Install Python
 1. download python pada web Resmi python [di sini](https://python.org)
+![download python](https://user-images.githubusercontent.com/115919203/197144332-2f65b3c3-be9c-4e9f-b923-afad3cece58b.PNG)
+
 2. buka lalu centang bagian *add python to PATH* lalu klik install now
+![install python](https://user-images.githubusercontent.com/115919203/197144433-632f1b7c-2849-455d-a0e5-6d59ae14247f.PNG)
+![install python2](https://user-images.githubusercontent.com/115919203/197144497-575b1145-6545-44e1-9452-43c8edc745dc.PNG)
+
 3. Instalasi Selesai, klik close
-
-
-
+![install success](https://user-images.githubusercontent.com/115919203/197144532-57d919b7-a316-4a76-b64e-9fa47666d0b0.PNG)
 ## Latihan 1
 * buat file latihan1.py
 * tulis kode seperti contoh
